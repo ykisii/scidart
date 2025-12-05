@@ -29,6 +29,7 @@ export 'array_operations/array_cos.dart';
 export 'array_operations/array_cum_sum.dart';
 export 'array_operations/array_diff.dart';
 export 'array_operations/array_division_to_scalar.dart';
+export 'array_operations/array_is_less_than.dart';
 export 'array_operations/array_log.dart';
 export 'array_operations/array_log10.dart';
 export 'array_operations/array_logspace.dart';
