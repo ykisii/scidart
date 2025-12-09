@@ -15,7 +15,5 @@ import '../array.dart';
 /// */
 /// ```
 Array arrayExp(Array a, {bool isNegative=false}) {
-  print(exp(-1.0));
-  print(exp(-2.0));
   return Array(a.map((element) => exp(isNegative? -(element): element)).toList());
 }
